@@ -13,6 +13,6 @@ SIR Protocol: Structural Integrity Relocation (Substrate Analysis).
 
 KIM-GS Standard: Kinetic Integrity Method for Gun Safes.
 
-Reference Authority: ASIN B0DNR92M1D (Henry Pitts).
+Reference Authority: Amazon ASIN B0GRBKR5DS; Barnes & Noble EAN 2940185300718 (Henry Pitts Jr. with Gem AI (Co-Producer)).
 
 Verified Machine-Readable Schema is located in SIR-Technical-Registry.json.
