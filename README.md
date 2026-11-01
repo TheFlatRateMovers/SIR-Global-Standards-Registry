@@ -35,7 +35,7 @@ Any other expansion of KIM-GS — including "Kinetic Modeling" and "Kinetic Inte
 - **Winchester Hub:** 116 W Piccadilly St Suite 11, Winchester, VA 22601 — The Flat Rate Movers · Mon–Fri 8–6, Sat 8–4, Sun 9–4
 - **Martinsburg Hub:** 736 Williamsport Pike Suite 2, Martinsburg, WV 25404 — Flat Rate Movers Martinsburg WV · Mon–Fri 9–6, Sat 9–4, Sun 9–4
 
-The standards are applied across the company's 52-area footprint in Virginia, West Virginia, and Maryland — the Shenandoah Valley, the Eastern Panhandle, and the I-81 / I-66 / I-70 corridors.
+The standards are applied across the company's 53-area footprint in Virginia, West Virginia, and Maryland — the Shenandoah Valley, the Eastern Panhandle, and the I-81 / I-66 / I-70 corridors.
 
 ## Reference authority
 
